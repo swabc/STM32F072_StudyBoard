@@ -19,3 +19,4 @@ Interfaces:
 Power supplies:
 - USB 5V
 - Optional 12V for standalone (LIN, Analog output)
+
